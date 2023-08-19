@@ -1,36 +1,41 @@
 const axios = require('axios');
-const userwithRating = require('usersWithRating');
+const colors = require('colors');
+const usersWithRating = require('../usersWithRating.json');
 let rating = {};
-rating['newbie'] =1;
-rating['pupil'] =2;
-rating['specialist'] =3;
-rating['expert'] =4;
-rating['candidate master'] =5;
-rating['master'] =6;
-rating['international master'] =7;
-rating['grandmaster'] =8;
-rating['international grandmaster'] =9;
-rating['legendary grandmaster'] =10;
+rating['newbie'] ="pupil";
+rating['pupil'] ="specialist";
+rating['specialist'] ="expert";
+rating['expert'] ="candidate master";
+rating['candidate master'] ="master";
+rating['master'] ="international master";
+rating['international master'] ="grandmaster";
+rating['grandmaster'] ="international grandmaster";
+rating['international grandmaster'] ="legendary grandmaster";
+rating['legendary grandmaster'] ="you done bro";
 
-let reverse_rating = {};
-reverse_rating[1] ="newbie";
-reverse_rating[2] ="pupil";
-reverse_rating[3] ="specialist";
-reverse_rating[4] ="expert";
-reverse_rating[5] ='candidate master';
-reverse_rating[6] ='master';
-reverse_rating[7] ='international master';
-reverse_rating[8] ='grandmaster';
-reverse_rating[9] ='international grandmaster';
-reverse_rating[10] ='legendary grandmaster';
+
+const question_list = async(curr_rating) => {
+
+    let next_rating = rating[curr_rating];
+    console.log(next_rating);
+    const users = usersWithRating[next_rating].map(users => {return users.username});
+    
+
+    console.log(users);
+    
+}
 
 const getallUser = async () =>{
+    
     
     
     try {
         var response = await axios.get('https://codeforces.com/api/user.info?handles=coder_ravan');
         let user_rank = response.data.result[0].rank;
-        console.log(response.data.result[0].rank);
+        console.log(colors.cyan(response.data.result[0].rank));
+        
+        question_list("newbie");
+
         
     } catch (error) {
         console.log(error.message);
