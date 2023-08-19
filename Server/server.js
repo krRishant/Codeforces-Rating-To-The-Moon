@@ -8,6 +8,9 @@ app.get('/',(req,res)=>{
     res.send("Nilesh is Land ");
 })
 
+app.get('/nilesh', (req,res)=>{
+    res.send ("Nilesh suck my dick !!");
+})
 
 
 app.listen(PORT,()=>{
