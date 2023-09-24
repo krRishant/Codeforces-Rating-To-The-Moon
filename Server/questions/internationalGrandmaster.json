@@ -1,0 +1,7320 @@
+{
+  "internationalGrandmaster": [
+    {
+      "problemId": "103373I",
+      "frequency": 18,
+      "tags": []
+    },
+    {
+      "problemId": "1849F",
+      "frequency": 13,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1854D",
+      "frequency": 10,
+      "tags": [
+        "binary search",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1854B",
+      "frequency": 10,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1854A1",
+      "frequency": 10,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1844F2",
+      "frequency": 10,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1844E",
+      "frequency": 10,
+      "tags": [
+        "2-sat",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1844D",
+      "frequency": 10,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1844C",
+      "frequency": 10,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1844B",
+      "frequency": 10,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1805F2",
+      "frequency": 10,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1824D",
+      "frequency": 10,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "1870E",
+      "frequency": 9,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1863A",
+      "frequency": 9,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1854A2",
+      "frequency": 9,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1854C",
+      "frequency": 9,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1844F1",
+      "frequency": 9,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1844A",
+      "frequency": 9,
+      "tags": [
+        "constructive algorithms",
+        "games"
+      ]
+    },
+    {
+      "problemId": "1842E",
+      "frequency": 9,
+      "tags": [
+        "data structures",
+        "dp",
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1824C",
+      "frequency": 9,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1826F",
+      "frequency": 9,
+      "tags": [
+        "geometry",
+        "interactive",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1841F",
+      "frequency": 9,
+      "tags": [
+        "geometry",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1815F",
+      "frequency": 9,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1870D",
+      "frequency": 8,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1870C",
+      "frequency": 8,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1870B",
+      "frequency": 8,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1870A",
+      "frequency": 8,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1863G",
+      "frequency": 8,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1863D",
+      "frequency": 8,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1863C",
+      "frequency": 8,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1863B",
+      "frequency": 8,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1864F",
+      "frequency": 8,
+      "tags": [
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1844G",
+      "frequency": 8,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "implementation",
+        "math",
+        "matrices",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1842F",
+      "frequency": 8,
+      "tags": [
+        "dfs and similar",
+        "greedy",
+        "shortest paths",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1842C",
+      "frequency": 8,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1842B",
+      "frequency": 8,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1842A",
+      "frequency": 8,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1835A",
+      "frequency": 8,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1841B",
+      "frequency": 8,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1827B2",
+      "frequency": 8,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1824B2",
+      "frequency": 8,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1824B1",
+      "frequency": 8,
+      "tags": [
+        "combinatorics",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1824A",
+      "frequency": 8,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1826D",
+      "frequency": 8,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1817B",
+      "frequency": 8,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1817A",
+      "frequency": 8,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1821B",
+      "frequency": 8,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1815C",
+      "frequency": 8,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1815B",
+      "frequency": 8,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "implementation",
+        "interactive",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1815A",
+      "frequency": 8,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1810G",
+      "frequency": 8,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1854E",
+      "frequency": 8,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1832D1",
+      "frequency": 8,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "104471G",
+      "frequency": 8,
+      "tags": []
+    },
+    {
+      "problemId": "1832F",
+      "frequency": 8,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1868D",
+      "frequency": 7,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1863E",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1848F",
+      "frequency": 7,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1842D",
+      "frequency": 7,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1835D",
+      "frequency": 7,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1841E",
+      "frequency": 7,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1841D",
+      "frequency": 7,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1841C",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1830B",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1830A",
+      "frequency": 7,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1827B1",
+      "frequency": 7,
+      "tags": [
+        "binary search",
+        "dp",
+        "dsu",
+        "greedy",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1827C",
+      "frequency": 7,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1827A",
+      "frequency": 7,
+      "tags": [
+        "combinatorics",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1826E",
+      "frequency": 7,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dp",
+        "graphs",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1817C",
+      "frequency": 7,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1821E",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1821C",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1821A",
+      "frequency": 7,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1810E",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1805E",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1808E3",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1830D",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1832D2",
+      "frequency": 7,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1832C",
+      "frequency": 7,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1821D",
+      "frequency": 7,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "568D",
+      "frequency": 7,
+      "tags": [
+        "brute force",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1870F",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1868B1",
+      "frequency": 6,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1864G",
+      "frequency": 6,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1864E",
+      "frequency": 6,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "games",
+        "math",
+        "probabilities",
+        "sortings",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1864D",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1864C",
+      "frequency": 6,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1864B",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1864A",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1856E2",
+      "frequency": 6,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dp",
+        "fft",
+        "greedy",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1852B",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1852A",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1848D",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math",
+        "ternary search"
+      ]
+    },
+    {
+      "problemId": "1848E",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1848C",
+      "frequency": 6,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1848B",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1848A",
+      "frequency": 6,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1842G",
+      "frequency": 6,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1841A",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms",
+        "games"
+      ]
+    },
+    {
+      "problemId": "1839E",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1839D",
+      "frequency": 6,
+      "tags": [
+        "data structures",
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1839C",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "1839B",
+      "frequency": 6,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1839A",
+      "frequency": 6,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1830C",
+      "frequency": 6,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "hashing",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1837D",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1826C",
+      "frequency": 6,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1826B",
+      "frequency": 6,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1826A",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1821F",
+      "frequency": 6,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1815D",
+      "frequency": 6,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1814E",
+      "frequency": 6,
+      "tags": [
+        "data structures",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "problemId": "1805C",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "data structures",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1805B",
+      "frequency": 6,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1805A",
+      "frequency": 6,
+      "tags": [
+        "bitmasks",
+        "brute force"
+      ]
+    },
+    {
+      "problemId": "1810D",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1810C",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1810B",
+      "frequency": 6,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1810A",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1827D",
+      "frequency": 6,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1832E",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1832B",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1832A",
+      "frequency": 6,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1849C",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "hashing",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1849B",
+      "frequency": 6,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1845D",
+      "frequency": 6,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1796F",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1819D",
+      "frequency": 6,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1556H",
+      "frequency": 6,
+      "tags": [
+        "graphs",
+        "greedy",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1868B2",
+      "frequency": 5,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1868C",
+      "frequency": 5,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1868A",
+      "frequency": 5,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1863F",
+      "frequency": 5,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1856D",
+      "frequency": 5,
+      "tags": [
+        "divide and conquer",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1852C",
+      "frequency": 5,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1835C",
+      "frequency": 5,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1835B",
+      "frequency": 5,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1837F",
+      "frequency": 5,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1837E",
+      "frequency": 5,
+      "tags": [
+        "combinatorics",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1837B",
+      "frequency": 5,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1837C",
+      "frequency": 5,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1837A",
+      "frequency": 5,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1833G",
+      "frequency": 5,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1833A",
+      "frequency": 5,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1819C",
+      "frequency": 5,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "implementation",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1819B",
+      "frequency": 5,
+      "tags": [
+        "geometry",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1810F",
+      "frequency": 5,
+      "tags": [
+        "data structures",
+        "math",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1805F1",
+      "frequency": 5,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1805D",
+      "frequency": 5,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1808D",
+      "frequency": 5,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1827E",
+      "frequency": 5,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1817D",
+      "frequency": 5,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1823E",
+      "frequency": 5,
+      "tags": [
+        "brute force",
+        "dp",
+        "games",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1823F",
+      "frequency": 5,
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1823D",
+      "frequency": 5,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1823C",
+      "frequency": 5,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1823B",
+      "frequency": 5,
+      "tags": [
+        "brute force",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1823A",
+      "frequency": 5,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1849A",
+      "frequency": 5,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1814F",
+      "frequency": 5,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "dsu"
+      ]
+    },
+    {
+      "problemId": "1814D",
+      "frequency": 5,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1804H",
+      "frequency": 5,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1858C",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1858A",
+      "frequency": 4,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1229C",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1856E1",
+      "frequency": 4,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1847F",
+      "frequency": 4,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1847D",
+      "frequency": 4,
+      "tags": [
+        "data structures",
+        "dsu",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1847B",
+      "frequency": 4,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1847C",
+      "frequency": 4,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1847A",
+      "frequency": 4,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1833F",
+      "frequency": 4,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "data structures",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1833E",
+      "frequency": 4,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1833D",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1833C",
+      "frequency": 4,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1833B",
+      "frequency": 4,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1819A",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1815E",
+      "frequency": 4,
+      "tags": [
+        "dp",
+        "math",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1797D",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1797E",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dsu",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1797C",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1797B",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1797A",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "flows",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1814C",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1814B",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1814A",
+      "frequency": 4,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1808C",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1808B",
+      "frequency": 4,
+      "tags": [
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1808A",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1817E",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1822G1",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1822G2",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "104502G",
+      "frequency": 4,
+      "tags": []
+    },
+    {
+      "problemId": "1849E",
+      "frequency": 4,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "dsu",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1849D",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1845E",
+      "frequency": 4,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1838E",
+      "frequency": 4,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1838D",
+      "frequency": 4,
+      "tags": [
+        "data structures",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1838C",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1838B",
+      "frequency": 4,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1797F",
+      "frequency": 4,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "364D",
+      "frequency": 4,
+      "tags": [
+        "brute force",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "269D",
+      "frequency": 4,
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1735F",
+      "frequency": 4,
+      "tags": [
+        "data structures",
+        "geometry"
+      ]
+    },
+    {
+      "problemId": "1442E",
+      "frequency": 4,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1810H",
+      "frequency": 4,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1819F",
+      "frequency": 4,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1867E1",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1867E2",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1867D",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1867C",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "games",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1867B",
+      "frequency": 3,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1867A",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1872G",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1872F",
+      "frequency": 3,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1872E",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1872D",
+      "frequency": 3,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "problemId": "1872C",
+      "frequency": 3,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1872B",
+      "frequency": 3,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1872A",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1866E",
+      "frequency": 3,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1866M",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1866D",
+      "frequency": 3,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1866I",
+      "frequency": 3,
+      "tags": [
+        "dp",
+        "games",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1866K",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "geometry",
+        "graphs",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1866L",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1866G",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1866H",
+      "frequency": 3,
+      "tags": [
+        "combinatorics"
+      ]
+    },
+    {
+      "problemId": "1866C",
+      "frequency": 3,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1866B",
+      "frequency": 3,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1866A",
+      "frequency": 3,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "problemId": "1861E",
+      "frequency": 3,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1861D",
+      "frequency": 3,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1861C",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "implementation",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1861B",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1861A",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1856C",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1856B",
+      "frequency": 3,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1856A",
+      "frequency": 3,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1847E",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "implementation",
+        "interactive",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1842H",
+      "frequency": 3,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1811G2",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1808E1",
+      "frequency": 3,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1808E2",
+      "frequency": 3,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "problemId": "1858D",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1858B",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "42C",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "336E",
+      "frequency": 3,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1852D",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1829G",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1829H",
+      "frequency": 3,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1829F",
+      "frequency": 3,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1829E",
+      "frequency": 3,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1829D",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1829C",
+      "frequency": 3,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1829B",
+      "frequency": 3,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1829A",
+      "frequency": 3,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1822F",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1822E",
+      "frequency": 3,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1822D",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1822C",
+      "frequency": 3,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "problemId": "1822B",
+      "frequency": 3,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1822A",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1845F",
+      "frequency": 3,
+      "tags": [
+        "dp",
+        "fft",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1845C",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1845B",
+      "frequency": 3,
+      "tags": [
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1845A",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1834F",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1834E",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1834D",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1834C",
+      "frequency": 3,
+      "tags": [
+        "games",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1834B",
+      "frequency": 3,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1834A",
+      "frequency": 3,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1840G2",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "meet-in-the-middle",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1840F",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1838A",
+      "frequency": 3,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1804G",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "dsu",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1864H",
+      "frequency": 3,
+      "tags": [
+        "dp",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "problemId": "1361E",
+      "frequency": 3,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1716C",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "ternary search"
+      ]
+    },
+    {
+      "problemId": "1267I",
+      "frequency": 3,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "interactive",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "500G",
+      "frequency": 3,
+      "tags": [
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "117E",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1801G",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1801D",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1804F",
+      "frequency": 3,
+      "tags": [
+        "binary search",
+        "divide and conquer",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1830E",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1830F",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1819E",
+      "frequency": 3,
+      "tags": [
+        "interactive",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1817F",
+      "frequency": 3,
+      "tags": [
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "671D",
+      "frequency": 3,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1867F",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "hashing"
+      ]
+    },
+    {
+      "problemId": "1862A",
+      "frequency": 2,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1240D",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "hashing"
+      ]
+    },
+    {
+      "problemId": "104270B",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270G",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270I",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270K",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270L",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270D",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270F",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270E",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270C",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270J",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "104270M",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "1858E1",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1104A",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "855E",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "538E",
+      "frequency": 2,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "232D",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "data structures",
+        "string suffix structures"
+      ]
+    },
+    {
+      "problemId": "1674E",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1812J",
+      "frequency": 2,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1866F",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1860F",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "geometry",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1860E",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1860D",
+      "frequency": 2,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1860C",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "dp",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1860B",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1860A",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1859E",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1859D",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1859C",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1859B",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1859A",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "104443H",
+      "frequency": 2,
+      "tags": []
+    },
+    {
+      "problemId": "1840G1",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "meet-in-the-middle",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1840E",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "hashing",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1840D",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1840C",
+      "frequency": 2,
+      "tags": [
+        "combinatorics",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1840B",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1840A",
+      "frequency": 2,
+      "tags": [
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "436E",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "321D",
+      "frequency": 2,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1019C",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1458D",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1716F",
+      "frequency": 2,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1716E",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1709D",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1709E",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1716D",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1709F",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "fft",
+        "flows",
+        "graphs",
+        "math",
+        "meet-in-the-middle",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1709C",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1709B",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1709A",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1735D",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "hashing",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1361C",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1735C",
+      "frequency": 2,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1735B",
+      "frequency": 2,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1735A",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1736D",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1736C2",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1736E",
+      "frequency": 2,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1736C1",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "data structures",
+        "schedules",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1736B",
+      "frequency": 2,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1736A",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1290E",
+      "frequency": 2,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "671E",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "690F2",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "359E",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar"
+      ]
+    },
+    {
+      "problemId": "1768D",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1768E",
+      "frequency": 2,
+      "tags": [
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1768F",
+      "frequency": 2,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1768A",
+      "frequency": 2,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1778A",
+      "frequency": 2,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1778E",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1778F",
+      "frequency": 2,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1795B",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "geometry",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1795C",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1795D",
+      "frequency": 2,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1795A",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1789C",
+      "frequency": 2,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1789D",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1789B",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1789A",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1789F",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1796D",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1796C",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1796B",
+      "frequency": 2,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1796A",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1794B",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1794A",
+      "frequency": 2,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1794E",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "hashing",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1801E",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "hashing",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1801B",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1804E",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1804D",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1804C",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1806F1",
+      "frequency": 2,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1806E",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1806D",
+      "frequency": 2,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "dsu",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1806C",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1806B",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1806A",
+      "frequency": 2,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1798F",
+      "frequency": 2,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1798E",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1798D",
+      "frequency": 2,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1798C",
+      "frequency": 2,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1798B",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1798A",
+      "frequency": 2,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1838F",
+      "frequency": 2,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1163F",
+      "frequency": 2,
+      "tags": [
+        "data structures",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "938G",
+      "frequency": 2,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "126E",
+      "frequency": 2,
+      "tags": [
+        "brute force",
+        "flows"
+      ]
+    },
+    {
+      "problemId": "104544K",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544I",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544M",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544J",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544H",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544L",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104544A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "1198E",
+      "frequency": 1,
+      "tags": [
+        "flows",
+        "graph matchings",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1198D",
+      "frequency": 1,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1198C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1198B",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1198A",
+      "frequency": 1,
+      "tags": [
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1205B",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1205C",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1205D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1205A",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1229B",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1229A",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1240C",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1240B",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1240A",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1811F",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1811G1",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1811E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1811D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1811C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1811A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1811B",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1566G",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1870H",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1854F",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "283E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "problemId": "508D",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "822A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1627A",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "873A",
+      "frequency": 1,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1512A",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "196C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "divide and conquer",
+        "geometry",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "612E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "problemId": "509D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "975E",
+      "frequency": 1,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "problemId": "264C",
+      "frequency": 1,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "45C",
+      "frequency": 1,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "580D",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1152F2",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "problemId": "1152F1",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "problemId": "67C",
+      "frequency": 1,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1036E",
+      "frequency": 1,
+      "tags": [
+        "fft",
+        "geometry",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "758D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "508E",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "961D",
+      "frequency": 1,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "problemId": "1080D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1257E",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "387E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "1303E",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "665F",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dp",
+        "math",
+        "number theory",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1360H",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "976E",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "837E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "427D",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "514D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "340E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "problemId": "731E",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "problemId": "1149B",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "238C",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "496E",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1202C",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "833B",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1506G",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "432C",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1682D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1674G",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "10C",
+      "frequency": 1,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "710E",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "67D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "864E",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "483B",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "problemId": "853D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1521C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1282E",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "449D",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "630K",
+      "frequency": 1,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1646C",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1196D1",
+      "frequency": 1,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1611D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1009F",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1835F",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "graph matchings",
+        "graphs",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "104197A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262J",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262I",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262H",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104262C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "547D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1519E",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "geometry",
+        "graphs",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1279F",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1279E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1039D",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1873H",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1873G",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1873F",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1873E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1873D",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1873C",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1873B",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1873A",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1379F2",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "problemId": "1379F1",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "1569E",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "hashing",
+        "implementation",
+        "meet-in-the-middle"
+      ]
+    },
+    {
+      "problemId": "1187G",
+      "frequency": 1,
+      "tags": [
+        "flows",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1422C",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1740F",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1665E",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1120E",
+      "frequency": 1,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "problemId": "1516E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1080E",
+      "frequency": 1,
+      "tags": [
+        "strings"
+      ]
+    },
+    {
+      "problemId": "285E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "104570D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104570C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104570B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104570A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022M",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022K",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022J",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104022A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "1166F",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "hashing"
+      ]
+    },
+    {
+      "problemId": "1380D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1866J",
+      "frequency": 1,
+      "tags": [
+        "dp"
+      ]
+    },
+    {
+      "problemId": "514B",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "data structures",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "104542F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104542E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104542D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104542C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104542B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104542A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "1862G",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1862F",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1862E",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1862D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1862C",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1862B",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "1859F",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "104502F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104502E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104502D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104502C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104502B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104502A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "1851G",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu",
+        "graphs",
+        "implementation",
+        "sortings",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1851F",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1851E",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1851D",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1851C",
+      "frequency": 1,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1851B",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1851A",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "241E",
+      "frequency": 1,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "401A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1850H",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1850G",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "geometry",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1850F",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1850E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "geometry",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1850D",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1850C",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1850B",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1850A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "811A",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "104471F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104471E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104471D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104471C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104471B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104471A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104455F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104455E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104455D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104455C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104455B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104455A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104443C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104443G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104443B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104443D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104443A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "1843F2",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1843F1",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1843E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1843D",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1843C",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1843A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "104432E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104432D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104432C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104432B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104432A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104427E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104427D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104427I",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104427J",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104427G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104427B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104427A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "808G",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "104420E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104420D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104420C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104420B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104420A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "720B",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "flows"
+      ]
+    },
+    {
+      "problemId": "101242F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242K",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242L",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101242C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175K",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175J",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175I",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175H",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175D",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "101175A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "587F",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "804C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "104354F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104354E",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104354C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104354B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "104354A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "53D",
+      "frequency": 1,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "451D",
+      "frequency": 1,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "problemId": "39G",
+      "frequency": 1,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "50C",
+      "frequency": 1,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "problemId": "1474D",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1870G",
+      "frequency": 1,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "11E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "48G",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "101E",
+      "frequency": 1,
+      "tags": [
+        "divide and conquer",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "487E",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1514E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "graphs",
+        "interactive",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "685D",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1036G",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar"
+      ]
+    },
+    {
+      "problemId": "1153F",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1716B",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1716A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "480D",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "848C",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "divide and conquer"
+      ]
+    },
+    {
+      "problemId": "83E",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "144E",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1735E",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "graph matchings",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1658A",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1657A",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1651B",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "814E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "555E",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1788F",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1788E",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp"
+      ]
+    },
+    {
+      "problemId": "1788D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1788C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1788B",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1788A",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1621H",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "576E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "351D",
+      "frequency": 1,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "311D",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "problemId": "140F",
+      "frequency": 1,
+      "tags": [
+        "geometry",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1539F",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "756D",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "string suffix structures"
+      ]
+    },
+    {
+      "problemId": "51F",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1768C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1768B",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1775F",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1775E",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1775D",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "math",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1775C",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1775B",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "1775A2",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1775A1",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1777F",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1777E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dfs and similar",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1777D",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1777C",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "math",
+        "number theory",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1777B",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1777A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1780G",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dsu",
+        "hashing",
+        "math",
+        "number theory",
+        "string suffix structures"
+      ]
+    },
+    {
+      "problemId": "1780F",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "number theory",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1780E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1780D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1780B",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1780A",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1778D",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1778C",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1778B",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1793F",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1793D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1793C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1793B",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1793A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1795G",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "1795F",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1795E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1789E",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1796E",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "games",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1794D",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1794C",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1801F",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "math",
+        "meet-in-the-middle",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1801A",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "1804B",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1804A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1806F2",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "888G",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "100162C",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "100162K",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "100162A",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "100162B",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "100162H",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "100162F",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "100162G",
+      "frequency": 1,
+      "tags": []
+    },
+    {
+      "problemId": "1750F",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1824E",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "241B",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1286E",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "490F",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "840D",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1051G",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dsu",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1175G",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "600E",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1770G",
+      "frequency": 1,
+      "tags": [
+        "divide and conquer",
+        "fft",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1765L",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1765F",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "geometry",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1765C",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "1765A",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dsu",
+        "flows",
+        "graph matchings"
+      ]
+    },
+    {
+      "problemId": "1765H",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "graphs",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1765K",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1765N",
+      "frequency": 1,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1765M",
+      "frequency": 1,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1765E",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1765D",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1765B",
+      "frequency": 1,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1861F",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "flows",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1858E2",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "117D",
+      "frequency": 1,
+      "tags": [
+        "divide and conquer",
+        "math"
+      ]
+    },
+    {
+      "problemId": "117C",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "117B",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "117A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "107E",
+      "frequency": 1,
+      "tags": [
+        "geometry",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "107D",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "graphs",
+        "matrices"
+      ]
+    },
+    {
+      "problemId": "107B",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "probabilities"
+      ]
+    },
+    {
+      "problemId": "107A",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "74E",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "74D",
+      "frequency": 1,
+      "tags": [
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "74C",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "74B",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "games",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "74A",
+      "frequency": 1,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1344F",
+      "frequency": 1,
+      "tags": [
+        "matrices"
+      ]
+    },
+    {
+      "problemId": "185E",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "data structures"
+      ]
+    },
+    {
+      "problemId": "1037H",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "string suffix structures"
+      ]
+    },
+    {
+      "problemId": "1776M",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "1776I",
+      "frequency": 1,
+      "tags": [
+        "games",
+        "geometry",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1776J",
+      "frequency": 1,
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1776G",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1776B",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "geometry"
+      ]
+    },
+    {
+      "problemId": "1776F",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1776H",
+      "frequency": 1,
+      "tags": [
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1776A",
+      "frequency": 1,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1776L",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1846F",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "interactive"
+      ]
+    },
+    {
+      "problemId": "1846G",
+      "frequency": 1,
+      "tags": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "1846C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1846E2",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1846E1",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1846D",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1846B",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1846A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "104A",
+      "frequency": 1,
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "103E",
+      "frequency": 1,
+      "tags": [
+        "flows",
+        "graph matchings"
+      ]
+    },
+    {
+      "problemId": "103C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "103D",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "data structures",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "103B",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ]
+    },
+    {
+      "problemId": "103A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1825B",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1825A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1836B",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1836A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "87B",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "87E",
+      "frequency": 1,
+      "tags": [
+        "geometry"
+      ]
+    },
+    {
+      "problemId": "87D",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "implementation",
+        "sortings",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "87C",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "problemId": "87A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1816A",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1820B",
+      "frequency": 1,
+      "tags": [
+        "math",
+        "strings",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "1820A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "1818B",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "1818A",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "1828B",
+      "frequency": 1,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1828A",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "problemId": "1831B",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "1831A",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "problemId": "1770E",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "126D",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "126C",
+      "frequency": 1,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "126B",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "dp",
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "126A",
+      "frequency": 1,
+      "tags": [
+        "binary search",
+        "brute force",
+        "math"
+      ]
+    },
+    {
+      "problemId": "55E",
+      "frequency": 1,
+      "tags": [
+        "geometry",
+        "two pointers"
+      ]
+    },
+    {
+      "problemId": "55D",
+      "frequency": 1,
+      "tags": [
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "55C",
+      "frequency": 1,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "problemId": "55B",
+      "frequency": 1,
+      "tags": [
+        "brute force"
+      ]
+    },
+    {
+      "problemId": "55A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "problemId": "124B",
+      "frequency": 1,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "124A",
+      "frequency": 1,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "problemId": "123E",
+      "frequency": 1,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "probabilities",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "123D",
+      "frequency": 1,
+      "tags": [
+        "string suffix structures"
+      ]
+    },
+    {
+      "problemId": "123C",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "problemId": "123B",
+      "frequency": 1,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "problemId": "123A",
+      "frequency": 1,
+      "tags": [
+        "implementation",
+        "number theory",
+        "strings"
+      ]
+    },
+    {
+      "problemId": "37E",
+      "frequency": 1,
+      "tags": [
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ]
+    },
+    {
+      "problemId": "37D",
+      "frequency": 1,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "problemId": "37C",
+      "frequency": 1,
+      "tags": [
+        "data structures",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "problemId": "37B",
+      "frequency": 1,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "problemId": "37A",
+      "frequency": 1,
+      "tags": [
+        "sortings"
+      ]
+    },
+    {
+      "problemId": "1812F",
+      "frequency": 1,
+      "tags": [
+        "*special",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1812D",
+      "frequency": 1,
+      "tags": [
+        "*special",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "problemId": "1812C",
+      "frequency": 1,
+      "tags": [
+        "*special"
+      ]
+    },
+    {
+      "problemId": "1812A",
+      "frequency": 1,
+      "tags": [
+        "*special",
+        "*special",
+        "*special",
+        "expression parsing",
+        "strings"
+      ]
+    }
+  ]
+}

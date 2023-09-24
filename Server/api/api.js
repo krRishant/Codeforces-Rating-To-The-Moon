@@ -3,29 +3,26 @@ const colors = require('colors');
 const usersWithRating = require('../usersWithRating.json');
 const fs = require('fs');
 
-let rating = {};
-rating['newbie'] = "pupil";
-rating['pupil'] = "specialist";
-rating['specialist'] = "expert";
-rating['expert'] = "candidate master";
-rating['candidate master'] = "master";
-rating['master'] = "international master";
-rating['international master'] = "grandmaster";
-rating['grandmaster'] = "international grandmaster";
-rating['international grandmaster'] = "legendary grandmaster";
-rating['legendary grandmaster'] = "you done bro";
 
 let rating_list = [
      'pupil', 'specialist',
-    'expert', 'candidate master','master',
-    'international master', 'grandmaster', 'international grandmaster',
-    'legendary grandmaster'
+    'expert', 'candidateMaster','master',
+    'internationalMaster', 'grandmaster', 'internationalGrandmaster',
+    'legendaryGrandmaster'
 
 ]
 
 const question_list = async (curr_rating) => {
 
-    const users = usersWithRating[curr_rating].map(users => { return users.username });
+    console.log(curr_rating, typeof(curr_rating));
+    const allUsers = usersWithRating[curr_rating];
+    if (!allUsers || allUsers.length === 0) {
+        console.log(`No users found for rating: ${curr_rating}`);
+        return;
+      }
+    
+
+    const users = allUsers.map(usr => { return usr.username });
     let currentTime = Math.round(new Date().getTime() / 1000);
 
     // Create an object to store the frequency of solved problems
@@ -68,7 +65,7 @@ const question_list = async (curr_rating) => {
             console.log(error);
         }
     };
-    for (var i = 0; i < Math.min(users.length, 1); i++) {
+    for (var i = 0; i < Math.min(users.length, 10); i++) {
         let user = users[i];
         await getSubmissionHistory(user);
     }
@@ -87,7 +84,7 @@ const question_list = async (curr_rating) => {
     const sortedSolvedProblems = solvedProblems.sort((a, b) => b.frequency - a.frequency);
 
 
-    console.log("findal solvedProblemsay, ", sortedSolvedProblems);
+    console.log("findal solvedProblemsay, ");
 
 
     const jsonData = {
@@ -103,18 +100,17 @@ const question_list = async (curr_rating) => {
 
 const getallUser = async () => {
 
-
+    console.log("tested");
 
     try {
         var response = await axios.get('https://codeforces.com/api/user.info?handles=coder_ravan');
         let user_rank = response.data.result[0].rank;
         console.log(colors.cyan(user_rank));
         // console.log(rating_list);
-        question_list('pupil');
-        // for (let key in rating_list) {
-        //     // console.log(colors.blue(rating_list[key]));
-        //     question_list(rating_list[key]);
-        // }
+        for (let key in rating_list) {
+            // console.log(colors.blue(rating_list[key]));
+            await question_list(rating_list[key]);
+        }
 
 
     } catch (error) {
